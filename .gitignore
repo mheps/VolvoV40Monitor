@@ -1,0 +1,18 @@
+# C#/.NET Core
+## Bütün bin ve obj klasörlerini yoksay
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio ile ilgili dosyalar
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider ile ilgili dosyalar
+.idea/
+*.sln.iml
+
+# Diğerleri
+*.DS_Store
